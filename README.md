@@ -27,39 +27,57 @@
             <td><img style="width:500px;" src="https://github.com/BedirhanTalhaKuzucu/Index-of-My-Vanilla-JavaScript-Projects/blob/main/media/media.gif" alt="ProjectView" height=130></td> 
         </tr>
         <tr>
-            <td>Digital Clock</td>
-            <td><a href="https://github.com/nurkocar/Digital-Clock" target="_blank">Repo details</a></td>
-            <td><a href="https://nurkocar.github.io/Digital-Clock/" target="_blank">Click here to see the project</a></td>
+            <td>Google Landing Page</td>
+            <td><a href="https://github.com/BedirhanTalhaKuzucu/google_landing_page" target="_blank">Repo details</a></td>
+            <td><a href="https://bedirhantalhakuzucu.github.io/google_landing_page/" target="_blank">Click here to see the project</a></td>
             <td><img style="width:500px;" src="./gifs/DigitalClock.gif" alt="ProjectView" height=130></td> 
         </tr>
         <tr>
-            <td>Counter</td>
-            <td><a href="https://github.com/nurkocar/Counter" target="_blank">Repo details</a></td>
-            <td><a href="https://nurkocar.github.io/Counter/" target="_blank">Click here to see the project</a></td>
-            <td><img style="width:500px;" src="./gifs/Counter.gif" alt="ProjectView" height=130></td> 
+            <td>Media Query</td>
+            <td><a href="" target="_blank">Repo details</a></td>
+            <td><a href="https://github.com/BedirhanTalhaKuzucu/flex_box-media_query" target="_blank">Click here to see the project</a></td>
+            <td><img style="width:500px;" src="https://bedirhantalhakuzucu.github.io/flex_box-media_query/" alt="ProjectView" height=130></td> 
         </tr>
         <tr>
-            <td>Light Bulb</td>
-            <td><a href="https://github.com/nurkocar/Light-Bulb-On-Off" target="_blank">Repo details</a></td>
-            <td><a href="https://nurkocar.github.io/Light-Bulb-On-Off/" target="_blank">Click here to see the project</a></td>
+            <td>parallax-website-clarusway</td>
+            <td><a href="https://github.com/BedirhanTalhaKuzucu/parallax-website-clarusway" target="_blank">Repo details</a></td>
+            <td><a href="https://bedirhantalhakuzucu.github.io/parallax-website-clarusway/">Click here to see the project</a></td>
             <td><img style="width:500px;" src="./gifs/LightBulb.gif" alt="ProjectView" height=130></td> 
         </tr>
         <tr>
-            <td>NavBar</td>
-            <td><a href="https://github.com/nurkocar/NavBar" target="_blank">Repo details</a></td>
-            <td><a href="https://nurkocar.github.io/NavBar/" target="_blank">Click here to see the project</a></td>
+            <td>Exact_Age_Calculator</td>
+            <td><a href="https://github.com/BedirhanTalhaKuzucu/Exact_Age_Calculator" target="_blank">Repo details</a></td>
+            <td><a href="https://bedirhantalhakuzucu.github.io/JS---Project-01_Exact_Age_Calculator/" target="_blank">Click here to see the project</a></td>
             <td><img style="width:500px;" src="./images/NavBar.PNG" alt="ProjectView" height=130></td> 
         </tr>
         <tr>
-            <td>Change Background</td>
-            <td><a href="https://github.com/nurkocar/Change-Background" target="_blank">Repo details</a></td>
-            <td><a href="https://nurkocar.github.io/Change-Background/" target="_blank">Click here to see the project</a></td>
+            <td>Score_Keeper</td>
+            <td><a href="https://github.com/BedirhanTalhaKuzucu/Score-Keeper/tree/main" target="_blank">Repo details</a></td>
+            <td><a href="https://bedirhantalhakuzucu.github.io/Score-Keeper/" target="_blank">Click here to see the project</a></td>
             <td><img style="width:500px;" src="./images/ChangeBackgroungColor.PNG" alt="ProjectView" height=130></td> 
         </tr>
         <tr>
-            <td>Reverse Words</td>
-            <td><a href="https://github.com/nurkocar/Reverse-Words" target="_blank">Repo details</a></td>
-            <td><a href="https://nurkocar.github.io/Reverse-Words/" target="_blank">Click here to see the project</a></td>
+            <td>Palindromic-and-Perfect-Numbers-Lists</td>
+            <td><a href="https://github.com/BedirhanTalhaKuzucu/Palindromic-and-Perfect-Numbers-Lists" target="_blank">Repo details</a></td>
+            <td><a href="https://bedirhantalhakuzucu.github.io/Palindromic-and-Perfect-Numbers-Lists/" target="_blank">Click here to see the project</a></td>
+            <td><img style="width:500px;" src="ReverseWords.gif" alt="ProjectView" height=130></td> 
+        </tr>
+        <tr>
+            <td>To-do-List</td>
+            <td><a href="https://github.com/BedirhanTalhaKuzucu/to-do-list-website" target="_blank">Repo details</a></td>
+            <td><a href="https://bedirhantalhakuzucu.github.io/to-do-list-website/" target="_blank">Click here to see the project</a></td>
+            <td><img style="width:500px;" src="ReverseWords.gif" alt="ProjectView" height=130></td> 
+        </tr>
+        <tr>
+            <td> Lottery-Game </td>
+            <td><a href="https://github.com/BedirhanTalhaKuzucu/Lottery-Game" target="_blank">Repo details</a></td>
+            <td><a href="https://bedirhantalhakuzucu.github.io/Lottery-Game/" target="_blank">Click here to see the project</a></td>
+            <td><img style="width:500px;" src="ReverseWords.gif" alt="ProjectView" height=130></td> 
+        </tr>
+        <tr>
+            <td> Find_Number_Game </td>
+            <td><a href="https://github.com/BedirhanTalhaKuzucu/Find_Number_Game" target="_blank">Repo details</a></td>
+            <td><a href="https://bedirhantalhakuzucu.github.io/Find_Number_Game/" target="_blank">Click here to see the project</a></td>
             <td><img style="width:500px;" src="ReverseWords.gif" alt="ProjectView" height=130></td> 
         </tr>
 
