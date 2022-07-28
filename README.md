@@ -86,6 +86,18 @@
             <td><a href="https://bedirhantalhakuzucu.github.io/ios-calculator/" target="_blank">Click here to see the project</a></td>
             <td><img style="width:500px;" src="ReverseWords.gif" alt="ProjectView" height=130></td> 
         </tr>
+        <tr>
+            <td> Website-Page-Design </td>
+            <td><a href="https://github.com/BedirhanTalhaKuzucu/Website-Page-Design" target="_blank">Repo details</a></td>
+            <td><a href="https://bedirhantalhakuzucu.github.io/Website-Page-Design/" target="_blank">Click here to see the project</a></td>
+            <td><img style="width:500px;" src="ReverseWords.gif" alt="ProjectView" height=130></td> 
+        </tr>
+        <tr>
+            <td> Checkout-Bill-page </td>
+            <td><a href="https://github.com/BedirhanTalhaKuzucu/checkout-bill-page" target="_blank">Repo details</a></td>
+            <td><a href="https://bedirhantalhakuzucu.github.io/checkout-bill-page/" target="_blank">Click here to see the project</a></td>
+            <td><img style="width:500px;" src="ReverseWords.gif" alt="ProjectView" height=130></td> 
+        </tr>
 
 </tbody>
 </table>
