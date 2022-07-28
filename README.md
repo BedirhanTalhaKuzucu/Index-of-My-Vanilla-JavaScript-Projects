@@ -48,13 +48,13 @@
             <td>Exact_Age_Calculator</td>
             <td><a href="https://github.com/BedirhanTalhaKuzucu/Exact_Age_Calculator" target="_blank">Repo details</a></td>
             <td><a href="https://bedirhantalhakuzucu.github.io/JS---Project-01_Exact_Age_Calculator/" target="_blank">Click here to see the project</a></td>
-            <td><img style="width:500px;" src="./images/NavBar.PNG" alt="ProjectView" height=130></td> 
+            <td><img style="width:500px;" src="" alt="ProjectView" height=130></td> 
         </tr>
         <tr>
             <td>Score_Keeper</td>
             <td><a href="https://github.com/BedirhanTalhaKuzucu/Score-Keeper/tree/main" target="_blank">Repo details</a></td>
             <td><a href="https://bedirhantalhakuzucu.github.io/Score-Keeper/" target="_blank">Click here to see the project</a></td>
-            <td><img style="width:500px;" src="./images/ChangeBackgroungColor.PNG" alt="ProjectView" height=130></td> 
+            <td><img style="width:500px;" src="" alt="ProjectView" height=130></td> 
         </tr>
         <tr>
             <td>Palindromic-and-Perfect-Numbers-Lists</td>
@@ -78,6 +78,12 @@
             <td> Find_Number_Game </td>
             <td><a href="https://github.com/BedirhanTalhaKuzucu/Find_Number_Game" target="_blank">Repo details</a></td>
             <td><a href="https://bedirhantalhakuzucu.github.io/Find_Number_Game/" target="_blank">Click here to see the project</a></td>
+            <td><img style="width:500px;" src="ReverseWords.gif" alt="ProjectView" height=130></td> 
+        </tr>
+        <tr>
+            <td> ios Calculator </td>
+            <td><a href="https://github.com/BedirhanTalhaKuzucu/ios-calculator" target="_blank">Repo details</a></td>
+            <td><a href="https://bedirhantalhakuzucu.github.io/ios-calculator/" target="_blank">Click here to see the project</a></td>
             <td><img style="width:500px;" src="ReverseWords.gif" alt="ProjectView" height=130></td> 
         </tr>
 
