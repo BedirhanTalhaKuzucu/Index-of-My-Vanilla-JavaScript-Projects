@@ -21,9 +21,9 @@
             <td><img style="width:500px;" src="https://github.com/BedirhanTalhaKuzucu/Index-of-My-Vanilla-JavaScript-Projects/blob/main/media/netflixsurveyformOverview.png" alt="ProjectView" height=130></td> 
         </tr>
         <tr>
-            <td>Calculator</td>
-            <td><a href="https://github.com/nurkocar/Calculator" target="_blank">Repo details</a></td>
-            <td><a href="https://nurkocar.github.io/Calculator/" target="_blank">Click here to see the project</a></td>
+            <td>Voltran_site</td>
+            <td><a href="https://github.com/BedirhanTalhaKuzucu/voltran_site-" target="_blank">Repo details</a></td>
+            <td><a href="https://bedirhantalhakuzucu.github.io/voltran_site-/" target="_blank">Click here to see the project</a></td>
             <td><img style="width:500px;" src="./gifs/Calculator.gif" alt="ProjectView" height=130></td> 
         </tr>
         <tr>
