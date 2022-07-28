@@ -18,7 +18,7 @@
             <td>Netflix_Survey_Interface</td>
             <td><a href="https://github.com/BedirhanTalhaKuzucu/form_with_html_css" target="_blank">Repo details</a></td>
             <td><a href="https://bedirhantalhakuzucu.github.io/netflix_survey_interface/" target="_blank">Click here to see the project</a></td>
-            <td><img style="width:500px;" src="Index-of-My-Vanilla-JavaScript-Projects/media/netflixsurveyformOverview.png
+            <td><img style="width:500px;" src="./media/netflixsurveyformOverview.png
             " alt="ProjectView" height=130></td> 
         </tr>
         <tr>
