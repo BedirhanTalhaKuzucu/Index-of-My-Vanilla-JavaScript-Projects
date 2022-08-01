@@ -122,6 +122,12 @@
             <td><a href="https://bedirhantalhakuzucu.github.io/Movie-Seat-app/" target="_blank">Click here to see the project</a></td>
             <td><img style="width:500px;" src="ReverseWords.gif" alt="ProjectView" height=130></td> 
         </tr>
+        <tr>
+            <td> Portfolio-Building_Bootstrap-Clarusway-School </td>
+            <td><a href="https://github.com/BedirhanTalhaKuzucu/Portfolio-Building_Bootstrap-Clarusway-School" target="_blank">Repo details</a></td>
+            <td><a href="https://bedirhantalhakuzucu.github.io/Portfolio-Building_Bootstrap-Clarusway-School/" target="_blank">Click here to see the project</a></td>
+            <td><img style="width:500px;" src="ReverseWords.gif" alt="ProjectView" height=130></td> 
+        </tr>
 
 </tbody>
 </table>
