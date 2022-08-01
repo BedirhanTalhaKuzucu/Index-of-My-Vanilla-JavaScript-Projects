@@ -134,6 +134,12 @@
             <td><a href="https://bedirhantalhakuzucu.github.io/weather-app/" target="_blank">Click here to see the project</a></td>
             <td><img style="width:500px;" src="ReverseWords.gif" alt="ProjectView" height=130></td> 
         </tr>
+        <tr>
+            <td> stopWatch </td>
+            <td><a href="https://github.com/BedirhanTalhaKuzucu/stopWatch" target="_blank">Repo details</a></td>
+            <td><a href="https://bedirhantalhakuzucu.github.io/stopWatch/" target="_blank">Click here to see the project</a></td>
+            <td><img style="width:500px;" src="ReverseWords.gif" alt="ProjectView" height=130></td> 
+        </tr>
 
 </tbody>
 </table>
