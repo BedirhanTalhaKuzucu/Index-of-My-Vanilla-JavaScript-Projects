@@ -140,6 +140,12 @@
             <td><a href="https://bedirhantalhakuzucu.github.io/stopWatch/" target="_blank">Click here to see the project</a></td>
             <td><img style="width:500px;" src="ReverseWords.gif" alt="ProjectView" height=130></td> 
         </tr>
+        <tr>
+            <td> Weather-App-with-Jquery </td>
+            <td><a href="https://github.com/BedirhanTalhaKuzucu/Weather-App-with-Jquery" target="_blank">Repo details</a></td>
+            <td><a href="https://bedirhantalhakuzucu.github.io/Weather-App-with-Jquery/" target="_blank">Click here to see the project</a></td>
+            <td><img style="width:500px;" src="ReverseWords.gif" alt="ProjectView" height=130></td> 
+        </tr>
 
 </tbody>
 </table>
